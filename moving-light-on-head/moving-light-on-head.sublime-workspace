@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bang",
+				"bang_count"
+			],
+			[
+				"outlet",
+				"outlet_index"
+			],
+			[
+				"prob",
+				"probWeights"
+			],
+			[
+				"pro",
+				"probWeights"
+			],
+			[
+				"random",
+				"randomWeight"
+			],
+			[
+				"vert",
+				"vertex_i"
+			],
+			[
+				"gl_",
+				"gl_VertexID"
+			],
+			[
+				"gl",
+				"gl_VertexID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/ofApp.cpp",
+			"settings":
+			{
+				"buffer_size": 3232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/ofApp.h",
+			"settings":
+			{
+				"buffer_size": 1038,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/of.sublime-build",
+					""
+				],
+				[
+					"Packages/User/of.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/of.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/of.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/of.sublime-build",
+					""
+				],
+				[
+					"Packages/User/of.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/of.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/of.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/of.sublime-build",
+					""
+				],
+				[
+					"Packages/User/of.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/of.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/of.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Clang",
+				"Package Control: Install Package"
+			],
+			[
+				"bui",
+				"Build With: of"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wiklow/Documents/Visual/openframeworks/of_v0.10.1_osx_release/apps/myApps/loadModel/loadModel.sublime-project",
+		"/Users/wiklow/Documents/Visual/threejs/externals/webgl-noise/src/noise2D.glsl",
+		"/Users/wiklow/Documents/Visual/Threejs/lines/lines.sublime-project",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/apps/myApps/loadModel/src/ofApp.cpp",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/apps/myApps/loadModel/src/ofApp.h",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/apps/myApps/test/src/ofApp.cpp",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/apps/myApps/test/src/ofApp.h",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/apps/myApps/test/src/main.cpp",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/examples/communication/firmataExample/src/main.cpp",
+		"/Users/wiklow/Documents/openframeworks/of_v0.10.1_osx_release/apps/myApps/test/test",
+		"/Users/wiklow/Library/Application Support/Sublime Text 3/Packages/User/of.sublime-build",
+		"/Users/wiklow/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/wiklow/Documents/Wiklow Shop/Max for Live/wPhraseGenerator/record-sequences.js",
+		"/private/tmp/touchtmp/dat_glslmulti1_compute__td_40171_45.glsl",
+		"/private/tmp/touchtmp/dat_parcitle_processor_f1__td_2381_41.glsl",
+		"/Users/wiklow/Downloads/Gnomalab-touchdesigner-things-master/README.md",
+		"/Users/wiklow/Documents/Touchdesigner/Python/sum_probabilities_column.py",
+		"/private/tmp/touchtmp/dat_glsl1_pixel__td_9387_42.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_856_41.py",
+		"/private/tmp/touchtmp/dat_datexec1__td_871_57.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_871_51.py",
+		"/private/tmp/touchtmp/dat_table1__td_871_47.py",
+		"/private/tmp/touchtmp/dat_glsl1_pixel__td_1106_41.py",
+		"/private/tmp/touchtmp/dat_glsl1_pixel__td_629_41.py",
+		"/private/tmp/touchtmp/dat_text1__td_635_45.py",
+		"/private/tmp/touchtmp/dat_text1__td_644_43.py",
+		"/private/tmp/touchtmp/dat_lvl_data__td_644_42.py",
+		"/private/tmp/touchtmp/dat_table1__td_470_47.py",
+		"/private/tmp/touchtmp/dat_text1__td_2424_48.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_1407_94.py",
+		"/private/tmp/touchtmp/dat_pulse__td_449_83.py",
+		"/Users/wiklow/Documents/WebGL/webgl-fundamentals-master/webgl/resources/webgl-lessons-helper.js",
+		"/private/tmp/touchtmp/dat_chopexec1__td_758_46.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/CryptoTokenKit.framework/Versions/A/Headers/TKToken.h",
+		"/Users/wiklow/Documents/WebGL/threejs/cube.html",
+		"/Users/wiklow/Documents/WebGL/threejs/index.html",
+		"/Users/wiklow/Documents/WebGL/boilerplate/index.html",
+		"/Users/wiklow/Documents/WebGL/webgl-fundamentals-master/webgl/resources/webgl-utils.js",
+		"/Users/wiklow/Documents/WebGL/webgl-fundamentals-master/webgl/unit-circle.html",
+		"/private/tmp/touchtmp/dat_table1__td_803_46.py",
+		"/private/tmp/touchtmp/dat_table1__td_659_72.py",
+		"/private/tmp/touchtmp/dat_table2__td_659_71.py",
+		"/private/tmp/touchtmp/dat_table1__td_547_48.py",
+		"/Users/wiklow/Documents/Touchdesigner/glsl/vertex/basic-vertex-displacement-from-sampler.glsl",
+		"/private/tmp/touchtmp/dat_phong1GLSLVertex__td_1532_51.py",
+		"/private/tmp/touchtmp/dat_scale_and_offset_glsl__td_1136_42.glsl",
+		"/private/tmp/touchtmp/dat_scale_and_offset_glsl1__td_1136_43.glsl",
+		"/private/tmp/touchtmp/dat_parcitle_processor_f1__td_1136_41.glsl",
+		"/Users/wiklow/Documents/Touchdesigner/glsl/vertex/vertex-position-from-sampler.glsl",
+		"/private/tmp/touchtmp/dat_glsl1_vertex__td_744_41.glsl",
+		"/private/tmp/touchtmp/dat_scale_and_offset_glsl__td_509_59.glsl",
+		"/private/tmp/touchtmp/dat_glsl1_vertex__td_673_58.glsl",
+		"/Users/wiklow/Documents/Touchdesigner/shaders-text/triangles.glsl",
+		"/private/tmp/touchtmp/dat_VertexArtShaderGLSLVertex__td_754_69.glsl",
+		"/private/tmp/touchtmp/dat_glsl1_vertex__td_673_49.glsl"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ofApp.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/ofApp.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "moving-light-on-head.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
